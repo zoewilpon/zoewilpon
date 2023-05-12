@@ -1,3 +1,4 @@
+![Zoe's GitHub Banner](./assets/banner.png)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zoewilpon">
