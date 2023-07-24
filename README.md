@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/zoewilpon">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.zoewilpon.dev/">
+  <img src="https://img.shields.io/badge/Personal-Website-informational?style=for-the-badge&logo=firefox&logoColor=white&color=FF7139" alt="Website Badge"/>
+  </a>
+
 </div>
 
 
